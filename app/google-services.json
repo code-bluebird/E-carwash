@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432653366379",
+    "firebase_url": "https://e-car-wash.firebaseio.com",
+    "project_id": "e-car-wash",
+    "storage_bucket": "e-car-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432653366379:android:851cf01d27c99e89176d2e",
+        "android_client_info": {
+          "package_name": "in.dean.e_carwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432653366379-rla3blk3l4g4rcrd8ibujoidqc11mqmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dean.e_carwash",
+            "certificate_hash": "4c9962fff89423e4c3357876f7b5a20e7869ca3a"
+          }
+        },
+        {
+          "client_id": "432653366379-91ieov9mqbtcgah4k44p9e421qv77k4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAp2pPz_AnLzXHZEF35A34HDG0LwMiWio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432653366379-91ieov9mqbtcgah4k44p9e421qv77k4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
